@@ -3,9 +3,9 @@
 > 求大道以弭兵兮，凌万物而超脱 [^1]
 
 - :bulb: I studied electrical engineering at Zhejiang University
-- :bento: I currently work at Meituan Beijing as a data scientist
-- :book: I'm currently learning optimization, causal inference, ...
-- :video_game: I like writing and gaming in my spare time
+- :bento: I currently work at Shandong University as an Assistant Professor
+- :book: I'm currently learning wind power, optimization, causal inference, ...
+- :video_game: I like writing and basketball in my spare time
 - :mailbox: Please reach me through jiangyb@zju.edu.cn 
 
 [^1]: 出自2001年央视版《笑傲江湖》插曲《天地作合》，易茗作词
